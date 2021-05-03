@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@kin-sdk/react-native": "kin-sdk/react-native-kin-sdk",
+    "@kin-sdk/react-native": "^0.0.1",
     "@react-native-async-storage/async-storage": "^1.15.2",
     "react": "17.0.1",
     "react-native": "0.63.4"
