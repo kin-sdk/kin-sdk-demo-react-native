@@ -1008,10 +1008,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@kin-sdk/react-native@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@kin-sdk/react-native/-/react-native-0.1.2.tgz#ddcb168dc6d6a4bbd3404bcec04c8fd76ffe255a"
-  integrity sha512-utsimG1P3cePND+g6FxiUe+kgp9ohAg2TA5oTGS7tmwI9FIUt2/YpHPsDu1pnIP8WcxpUUFLxViEYPYdfJQD4w==
+"@kin-sdk/react-native@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@kin-sdk/react-native/-/react-native-0.1.4.tgz#f043417098c22843f3e254eb8b8dc5104daa7673"
+  integrity sha512-U0J5Wu5SOgCsnadgYgWmzQqtaPDAso/kQszGdMSNeC9hevlIXoDMcVjdK57g2P/C9/1diuU6BjzAOsOFyBKiFg==
   dependencies:
     "@react-native-async-storage/async-storage" "^1.15.2"
     pouchdb-adapter-asyncstorage "^6.4.1"
